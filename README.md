@@ -22,6 +22,16 @@ class Vanish:
       "name": "hex"
       "page": "https://discord.gg/",
     }
+    
+    self.mastered = [
+      "discord.py",
+      "nextcord",
+      "requests",
+      "roblox api",
+      "discord api",
+      "api abuse",
+      "exploitation"
+    ]
 
 
 Vanish()
