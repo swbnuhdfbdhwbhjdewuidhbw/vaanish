@@ -33,6 +33,5 @@ class Vanish:
       "exploitation"
     ]
 
-
 Vanish()
 ```
