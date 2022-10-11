@@ -13,9 +13,16 @@ class Vanish:
       "css": "basic"
     }
     
-    self.motivations = [
+    self.motivations = [,
+      "money",
       "life"
     ]
     
-    self.bitches = None
+    self.current_project = {
+      "name": "hex"
+      "page": "https://discord.gg/",
+    }
+
+
+Vanish()
 ```
